@@ -107,7 +107,8 @@ GitHub Repository: https://github.com/fahmidhasann/CropYield_Pesticides_Analysis
 ## 👨‍🎓 Author
 
 **Fahmid Hasan**  
-*B.Sc.Ag (Hons), Bangladesh Agricultural University, Mymensingh*
+*B.Sc.Ag (Hons), Bangladesh Agricultural University, Mymensingh*  
+📧 [taohid.2102010@bau.edu.bd](mailto:taohid.2102010@bau.edu.bd)
 
 [![GitHub](https://img.shields.io/badge/GitHub-fahmidhasann-black?style=flat&logo=github)](https://github.com/fahmidhasann)
 
