@@ -1,12 +1,17 @@
 
 # Crop Yield & Pesticides Analysis
 
+## 🌟 **[VIEW INTERACTIVE CHARTS & ANALYSIS →](https://fahmidhasann.github.io/CropYield_Pesticides_Analysis/CropYield_Pesticides_Analysis%20(Interactive%20Charts).html)** 🌟
+
 [![View Interactive Report](https://img.shields.io/badge/View-Interactive%20Report-blue?style=for-the-badge)](https://fahmidhasann.github.io/CropYield_Pesticides_Analysis/CropYield_Pesticides_Analysis%20(Interactive%20Charts).html)
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Comprehensive exploratory data analysis examining the relationship between global pesticide usage and crop yields across 165+ countries (1990-2016)
+
+### 🎯 **Quick Access**
+📊 **[Interactive Dashboard](https://fahmidhasann.github.io/CropYield_Pesticides_Analysis/CropYield_Pesticides_Analysis%20(Interactive%20Charts).html)** - Explore dynamic visualizations and insights
 
 ## 🌾 Overview
 
