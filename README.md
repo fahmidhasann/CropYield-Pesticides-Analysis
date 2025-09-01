@@ -1,7 +1,7 @@
 
 # Crop Yield & Pesticides Analysis
 
-## 🌟 **[VIEW INTERACTIVE CHARTS & ANALYSIS →]([https://fahmidhasann.github.io/CropYield_Pesticides_Analysis/CropYield_Pesticides_Analysis%20(Interactive%20Charts).html](https://fahmidhasann.github.io/CropYield-Pesticides-Analysis/))** 🌟
+## 🌟 **[VIEW INTERACTIVE CHARTS & ANALYSIS →](https://fahmidhasann.github.io/CropYield-Pesticides-Analysis/)** 🌟
 
 [![View Interactive Report](https://img.shields.io/badge/View-Interactive%20Report-blue?style=for-the-badge)](https://fahmidhasann.github.io/CropYield_Pesticides_Analysis/CropYield_Pesticides_Analysis%20(Interactive%20Charts).html)
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
